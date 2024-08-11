@@ -31,25 +31,11 @@
         </div>
     </nav>
 
-    <div class="chat-container">
-        <div class="row m-2 p-2">
-            <div class="messages p-2" id="chatMessages">
-                <!-- Messages will appear here -->
-            </div>
-        </div>
-
-        <div class="row fixed-bottom m-2 p-2">
-            <form id="chatForm">
-                <div class="input-group">
-                    <input type="text" class="form-control border rounded m-1" id="userInput"
-                        placeholder="Type your message here..." aria-label="User's message" />
-                    <button class="btn btn-primary border rounded m-1" type="submit">Send</button>
-                </div>
-            </form>
-        </div>
+    <div class="container-fluid">
+        <p>hello world</p>
     </div>
 </body>
 
-<script src="{{ url_for('static', filename='chatbot/script.js') }}"></script>
+<script src="{{ url_for('static', filename='index/script.js') }}"></script>
 
 </html>
