@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="light">
+<html lang="en" data-bs-theme="{{ mode if mode else 'light'}}">
 
 <head>
     <meta charset="UTF-8" />
@@ -18,10 +18,10 @@
                     <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="/app">Chatbot</a>
+                    <a class="nav-link" href="/app">Chatbot</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/map">Campus Map</a>
+                    <a class="nav-link active" href="/map">Campus Map</a>
                 </li>
             </ul>
             <form class="form-inline ms-auto">

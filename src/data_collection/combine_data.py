@@ -26,3 +26,8 @@ final_data = base_data + faq_data + add_data
 
 with open("./data/final_data.json", "w+", encoding="utf-8") as f:
     f.write(json.dumps(final_data, indent=4))
+
+with open("./data/final_data.csv", "w+", newline="", encoding="utf-8") as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(["text_input", "output"])
+    writer.writerows(final_data)

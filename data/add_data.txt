@@ -369,8 +369,7 @@ A: By providing opportunities to work on group projects and participate in forum
 Q: How does the Art Elective Programme (AEP) contribute to students' personal development?  
 A: Through fostering creativity, critical thinking, and a deep appreciation for the arts.
 Q: What skills are developed through the Bicultural Studies Programme (BSP)?  
-A: Skills in cultural understanding
-, global perspective, and the ability to analyze and connect historical and contemporary issues.
+A: Skills in cultural understanding, global perspective, and the ability to analyze and connect historical and contemporary issues.
 Q: How does the Malay Special Programme (MSP) support students' language learning?  
 A: By providing structured lessons, cultural activities, and opportunities for practical use of the Malay language.
 Q: What is the role of the Science and Mathematics Talent Programme (SMTP) in advancing students' careers?  
@@ -557,7 +556,6 @@ Q: What are the main outcomes for students participating in the Science and Math
 A: Advanced knowledge in science and mathematics, research experience, and success in prestigious science and mathematics competitions.
 Q: How does the Computing Talent Programme (CTP) prepare students for future careers in technology and innovation?  
 A: By offering a robust curriculum, practical programming experience, and exposure to real-world technology applications.
-Q: What role does the Humanities Programme (HP)
 Q: What role does the Humanities Programme (HP) play in preparing students for global challenges and opportunities?  
 A: It helps students understand and address global challenges through critical thinking, interdisciplinary learning, and effective communication skills.
 Q: How does the Art Elective Programme (AEP) impact students' engagement with the art world and their career success?  
