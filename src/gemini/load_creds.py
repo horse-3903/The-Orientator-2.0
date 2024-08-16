@@ -29,4 +29,4 @@ def load_creds():
         with open(TOKEN_FILE, "w") as token:
             token.write(creds.to_json())
 
-    genai.configure(credentials=creds)
+    return creds

@@ -3,16 +3,14 @@ import json
 import time
 
 from tqdm import tqdm
-# from dotenv import load_dotenv
+
+import random
 
 import google.generativeai as genai
-# from google.oauth2.credentials import Credentials
-# from google.auth.transport.requests import Request
-# from google_auth_oauthlib.flow import InstalledAppFlow
 
 from load_creds import load_creds
 
-load_creds()
+genai.configure(load_creds())
 
 name = "test-model-5"
 
